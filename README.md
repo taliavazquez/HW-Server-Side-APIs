@@ -1,10 +1,11 @@
 # Project Title
 
 Weather Dashboard
+![A Screenshot of the Weather Dashboard](./assets/simple-weather-dashboard.png)
 
 ## Motivation
 
-Quick Weather Dashboard created to have a quick weather result.
+Simple Weather Dashboard created to have a quick weather result.
 
 ## Style
 
