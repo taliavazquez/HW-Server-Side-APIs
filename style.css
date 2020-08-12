@@ -1,0 +1,65 @@
+* {
+  font-family: "Trebuchet MS", Helvetica, sans-serif; 
+}
+body {
+  font-size: 16px;
+  line-height: 1;
+}
+.jumbotron {
+  background-color: #311847;
+  color: white;
+  text-align: center;
+}
+#City-Container{
+  margin-left: 35px;
+  width: 20%;
+}
+#cities-ul{
+  background-color: transparent;
+}
+#cities-ul  :hover{
+  background-color: transparent;
+}
+#Weather-Container{
+  width: 70%;
+  margin-left: 1rem;
+}
+#space-container{ 
+  border: 1px transparent;
+  border-radius: 7px;
+  }
+#Info-Container{ 
+border-radius: 7px;
+background-color: white;
+}
+/* search box and history */
+#myDIV {
+  color: lightslategray;
+}
+#City-Container {
+  margin-top: 7rem;
+}
+/* 5day weather box */
+#forecast-container{
+margin-top: 1rem;
+background-color: white;
+border-radius: 10px;
+padding: 2rem;
+}
+#forecast-label{
+font-size: 1.5rem;
+font-weight: bold;
+color: #311847;
+padding-top: 1rem;
+padding-left: 3rem;
+}
+#forecast1,#forecast2,#forecast3,#forecast4,#forecast5 {
+background-color: #311847;
+height: 50%;
+width: 90%;
+margin: 2%;
+color: white;
+border-radius: 10px;
+padding: 10px;
+font-size: small;
+}
