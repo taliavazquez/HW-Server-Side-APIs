@@ -24,6 +24,6 @@ Some tutorials used:
 
 ## Project Website
 
-<a href="https://taliavazquez.github/HW-Server-Side-APIs/"><bold>DEMPLOYED SITE</bold></a>
+<a href="https://taliavazquez.github.io/HW-Server-Side-APIs/"><bold>DEMPLOYED SITE</bold></a>
 
 © 2020 Talia Vazquez
