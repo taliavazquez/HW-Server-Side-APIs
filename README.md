@@ -20,10 +20,10 @@ Some tutorials used:
 
 ## Project GitHub Repo
 
-<a href="https://github.com/taliavazquez/HW-Server-Side-APIs/"><bold>Repo</bold></a>
+<a href="https://github.com/taliavazquez/weather-dashboard"><bold>Repo</bold></a>
 
 ## Project Website
 
-<a href="https://taliavazquez.github.io/HW-Server-Side-APIs/"><bold>DEMPLOYED SITE</bold></a>
+<a href="https://taliavazquez.github.io/weather-dashboard/"><bold>DEMPLOYED SITE</bold></a>
 
 © 2020 Talia Vazquez
